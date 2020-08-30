@@ -111,9 +111,15 @@ IDE : Eclipse (2019-12)
 • 리스트 이름 및 스타일과 카드 이름, 상세내용, 일정, 완료유무는 프로젝트 별로 수정, 변경, 삭제, 조회 가능
 ![image](https://user-images.githubusercontent.com/61821190/91650955-555d7f80-eac1-11ea-9380-d2e6020b5e6c.png)
 
+### To-do List 리스트 및 항목 정렬
+>• 정렬 : ‘드래그 앤 드롭’ 방식으로 드롭하는 순간 모든 변경된 위치가 DB에 저장
+• ‘할일리스트’ 간위치 변경, ‘할일카드’ 간위치 변경, 리스트가 다른 카드 간 이동 가능
+![image](https://user-images.githubusercontent.com/61821190/91650974-a40b1980-eac1-11ea-9aee-d509e1e4e1ef.png)
+
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyMjIzNzQ0MSwtMjY0NDczNjAxLC0xMj
+eyJoaXN0b3J5IjpbMTg4ODI3MjQwMSwtMjY0NDczNjAxLC0xMj
 kzMDYwNjc0LDI3Mjk4MDMyN119
 -->
