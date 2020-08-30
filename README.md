@@ -91,10 +91,12 @@ IDE : Eclipse (2019-12)
 ### 회원가입
 >• 이메일 인증 : 이메일 입력시 가입되지 않는 이메일이면, 해당 이메일로 6자리의 랜덤 숫자가 전송되며 전송된 숫자를 입력해야 회원 가입 가능, 중복 제출을 차단하는 기능 구현
 • 회원가입 : 비밀번호가 일치하고 정규식을 통과한 경우 사용가능하다는 문자가 출력되며 가입 가능
+
 ![image](https://user-images.githubusercontent.com/61821190/91650840-ab312800-eabf-11ea-99f8-ab097521ddc7.png)
 
 ### 로그인
 >• 로그인 : 이메일과 비밀번호로 로그인, ‘email 기억하기’ 체크크박스 선택시 쿠키로 이메일을 기억
+>
 ![image](https://user-images.githubusercontent.com/61821190/91650842-ad938200-eabf-11ea-9fe0-e7064ac5d0b5.png)
 
 ### To-do List 초기 페이지
@@ -127,6 +129,6 @@ IDE : Eclipse (2019-12)
 >  보이지 않게 고민한 사항들이 많고 이를 극복하기 위한 시도도 많이 있었는데 이런 점을 다른 팀들이 알아봐 준 덕분에 **최우수 프로젝트**로 선정된 것 같아 기쁩니다. 새로운 상황을 겪고 공부하며 많이 성장 할 수 있었던 소중한 시간이었습니다. 특히 팀원에게 맡은 부분의 기능을 알려주기도 하고 또 다른 팀원의 담당 기능들을 배우기도 하며 열정적인 동료들과 작업하는 기회를 얻는 것이 자신의 성장에도 많은 도움이 된다는 것을 알게 되었습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjk4NzE4MTc4LC0yNjQ0NzM2MDEsLTEyOT
+eyJoaXN0b3J5IjpbNjE0MTI5MzkwLC0yNjQ0NzM2MDEsLTEyOT
 MwNjA2NzQsMjcyOTgwMzI3XX0=
 -->
