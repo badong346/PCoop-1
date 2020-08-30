@@ -9,11 +9,17 @@
 ### 개발 환경
 
   > 서버 : apache-tomcat-8.5.55
+  > 
 >사용언어 : Java, HTML, CSS, JavaScript, JSP, SQL
+>
 >Database : Oracle SQL Developer
+>
 >IDE : Eclipse (2019-12)
+>
 >라이브러리 :  jQuery(3.5.1), BootStrap(4.5.0)
+>
 >프레임워크 :  Spring MVC Framework
+>
 >버전관리 : Git
 
 
@@ -21,12 +27,18 @@
  
 ### 전체페이지
  >• 회원가입 / 로그인 / 프로젝트 생성 / 프로젝트 참가
- • 공지사항 게시판 : 관리자 회원만 작성, 수정, 삭제 / 비회원도 조회 가능
- • 회원 가입 과정에서 이메일 인증
- • 로그인 시 쿠기를 사용한 이메일 기억하기 구현
- • mybatis를 활용하여 DB 연결
- • AOP와 Session을 이용하여 프로젝트별 접근 권한 조정
- • jQuery를 활용한 반응형 웹 구현
+ >
+> • 공지사항 게시판 : 관리자 회원만 작성, 수정, 삭제 / 비회원도 조회 가능
+> 
+> • 회원 가입 과정에서 이메일 인증
+> 
+ >• 로그인 시 쿠기를 사용한 이메일 기억하기 구현
+ >
+> • mybatis를 활용하여 DB 연결
+ >
+> • AOP와 Session을 이용하여 프로젝트별 접근 권한 조정
+ >
+> • jQuery를 활용한 반응형 웹 구현
 
 ### 프로젝트
 >• 생성(인원수, 프로젝트명)
@@ -129,6 +141,6 @@
 >  보이지 않게 고민한 사항들이 많고 이를 극복하기 위한 시도도 많이 있었는데 이런 점을 다른 팀들이 알아봐 준 덕분에 **최우수 프로젝트**로 선정된 것 같아 기쁩니다. 새로운 상황을 겪고 공부하며 많이 성장 할 수 있었던 소중한 시간이었습니다. 특히 팀원에게 맡은 부분의 기능을 알려주기도 하고 또 다른 팀원의 담당 기능들을 배우기도 하며 열정적인 동료들과 작업하는 기회를 얻는 것이 자신의 성장에도 많은 도움이 된다는 것을 알게 되었습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTgwNDYyNTgsNjE0MTI5MzkwLC0yNj
-Q0NzM2MDEsLTEyOTMwNjA2NzQsMjcyOTgwMzI3XX0=
+eyJoaXN0b3J5IjpbNDk4ODQ5MzU2LDYxNDEyOTM5MCwtMjY0ND
+czNjAxLC0xMjkzMDYwNjc0LDI3Mjk4MDMyN119
 -->
