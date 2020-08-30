@@ -9,12 +9,12 @@
 ### 개발 환경
 
   > 서버 : apache-tomcat-8.5.55
-사용언어 : Java, HTML, CSS, JavaScript, JSP, SQL
-Database : Oracle SQL Developer
-IDE : Eclipse (2019-12)
-라이브러리 :  jQuery(3.5.1), BootStrap(4.5.0)
-프레임워크 :  Spring MVC Framework
-버전관리 : Git
+>사용언어 : Java, HTML, CSS, JavaScript, JSP, SQL
+>Database : Oracle SQL Developer
+>IDE : Eclipse (2019-12)
+>라이브러리 :  jQuery(3.5.1), BootStrap(4.5.0)
+>프레임워크 :  Spring MVC Framework
+>버전관리 : Git
 
 
 # 구현 기능
@@ -129,6 +129,6 @@ IDE : Eclipse (2019-12)
 >  보이지 않게 고민한 사항들이 많고 이를 극복하기 위한 시도도 많이 있었는데 이런 점을 다른 팀들이 알아봐 준 덕분에 **최우수 프로젝트**로 선정된 것 같아 기쁩니다. 새로운 상황을 겪고 공부하며 많이 성장 할 수 있었던 소중한 시간이었습니다. 특히 팀원에게 맡은 부분의 기능을 알려주기도 하고 또 다른 팀원의 담당 기능들을 배우기도 하며 열정적인 동료들과 작업하는 기회를 얻는 것이 자신의 성장에도 많은 도움이 된다는 것을 알게 되었습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjE0MTI5MzkwLC0yNjQ0NzM2MDEsLTEyOT
-MwNjA2NzQsMjcyOTgwMzI3XX0=
+eyJoaXN0b3J5IjpbLTEyNTgwNDYyNTgsNjE0MTI5MzkwLC0yNj
+Q0NzM2MDEsLTEyOTMwNjA2NzQsMjcyOTgwMzI3XX0=
 -->
