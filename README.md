@@ -89,12 +89,15 @@ IDE : Eclipse (2019-12)
 # 화면 설명
 
 ### 회원가입
+>• 이메일 인증 : 이메일 입력시 가입되지 않는 이메일이면, 해당 이메일로 6자리의 랜덤 숫자가 전송되며 전송된 숫자를 입력해야 회원 가입 가능, 중복 제출을 차단하는 기능 구현
+• 회원가입 : 비밀번호가 일치하고 정규식을 통과한 경우 사용가능하다는 문자가 출력되며 가입 가능
 
 ![image](https://user-images.githubusercontent.com/61821190/91650840-ab312800-eabf-11ea-99f8-ab097521ddc7.png)
 
 ### 로그인
+>• 로그인 : 이메일과 비밀번호로 로그인, ‘email 기억하기’ 체크크박스 선택시 쿠키로 이메일을 기억
 ![image](https://user-images.githubusercontent.com/61821190/91650842-ad938200-eabf-11ea-9fe0-e7064ac5d0b5.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzg5ODEzMTQsLTEyOTMwNjA2NzQsMj
-cyOTgwMzI3XX0=
+eyJoaXN0b3J5IjpbLTI2NDQ3MzYwMSwtMTI5MzA2MDY3NCwyNz
+I5ODAzMjddfQ==
 -->
