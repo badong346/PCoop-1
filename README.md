@@ -59,6 +59,17 @@ IDE : Eclipse (2019-12)
 >
 ![image](https://user-images.githubusercontent.com/61821190/91650632-eb42db80-eabc-11ea-9f26-9d135ff84270.png)
 
+
+## 담당 역할
+
+>•  프로젝트 주제 선정
+•  기능 기획
+•  할 일 리스트 관련 테이블 설계
+• 기능 기획, DB 설계, 회원 가입 및 인증 기능 구현
+•  할 일 리스트 관련 기능 전체 구현 및 테스트
+•  AOP를 이용한 회원 및 프로젝트 권한 체크
+
+# 참여도/기여도
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjcyOTgwMzI3XX0=
+eyJoaXN0b3J5IjpbLTExOTE2NzQxODgsMjcyOTgwMzI3XX0=
 -->
