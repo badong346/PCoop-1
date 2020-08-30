@@ -54,13 +54,13 @@ IDE : Eclipse (2019-12)
 >• 50mb 이하의 파일을 업로드 가능하며, 파일 디렉토리를 생성 할 수 있음, 압축파일을 업로드시 압축해제가 되며 텍스트 파일 형식은 미리 보기가 가능
 
 
-## DB 설계
+# DB 설계
 >[AQueryTool](https://aquerytool.com/) 에서 제공하는 기능으로 데이터베이스를 설게하였습니다.
 >
 ![image](https://user-images.githubusercontent.com/61821190/91650632-eb42db80-eabc-11ea-9f26-9d135ff84270.png)
 
 
-## 담당 역할
+# 담당 역할
 
 >•  프로젝트 주제 선정
 •  기능 기획
@@ -68,6 +68,7 @@ IDE : Eclipse (2019-12)
 • 기능 기획, DB 설계, 회원 가입 및 인증 기능 구현
 •  할 일 리스트 관련 기능 전체 구현 및 테스트
 •  AOP를 이용한 회원 및 프로젝트 권한 체크
+
 
 ### 참여도/기여도
 
@@ -82,6 +83,10 @@ IDE : Eclipse (2019-12)
 >- 주간 일정 기능 연동
 >- 드래그앤드롭 방식으로 정렬변경
 >- AOP를 이용한 로그인/프로젝트 체크
+
+
+
+# 화면 설명
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIzNDY1MDYwOCwyNzI5ODAzMjddfQ==
+eyJoaXN0b3J5IjpbLTEyOTMwNjA2NzQsMjcyOTgwMzI3XX0=
 -->
