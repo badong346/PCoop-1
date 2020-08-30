@@ -74,7 +74,7 @@ IDE : Eclipse (2019-12)
 
 >• 참여도 : 100%
 >- 프로젝트 주제 선정, 기획, DB설계, 기능 구현, 반응형 웹 등 모든 과정 참여
->
+
 >• 기여도 : 20% (팀 구성원 : 5명)
 >- 회원가입, 이메일 인증
 >- ‘할일리스트’ 생성/수정/삭제/조회/스타일변경
@@ -87,6 +87,14 @@ IDE : Eclipse (2019-12)
 
 
 # 화면 설명
+
+### 회원가입
+
+![image](https://user-images.githubusercontent.com/61821190/91650840-ab312800-eabf-11ea-99f8-ab097521ddc7.png)
+
+### 로그인
+![image](https://user-images.githubusercontent.com/61821190/91650842-ad938200-eabf-11ea-9fe0-e7064ac5d0b5.png)
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyOTMwNjA2NzQsMjcyOTgwMzI3XX0=
+eyJoaXN0b3J5IjpbLTEzMzg5ODEzMTQsLTEyOTMwNjA2NzQsMj
+cyOTgwMzI3XX0=
 -->
