@@ -118,8 +118,10 @@ IDE : Eclipse (2019-12)
 
 
 
+# 참여소감
 
+>코딩을 본격적으로 배운지 4달 만에 작업하기 기작한 두번째 팀 프로젝트입니다. 3주 정도의 시간을 갖고 진
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg4ODI3MjQwMSwtMjY0NDczNjAxLC0xMj
+eyJoaXN0b3J5IjpbMTEyMTIwODk4MiwtMjY0NDczNjAxLC0xMj
 kzMDYwNjc0LDI3Mjk4MDMyN119
 -->
