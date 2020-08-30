@@ -102,8 +102,18 @@ IDE : Eclipse (2019-12)
 • 데이터가 존재하지 않을 시 자동으로 도움말 리스트 출력
 • + 버튼 : 리스트를 추가 가능하며 내부에 항목들을 넣을 수 있음
 • 하단의 주간 일정표는 숨기거나 일일 일정으로 변경 가능
-• ‘할 일 항목’ 완료시 하단의 진행률 바로 표시
+• ‘할 일 항목’ 완료시 하단의 '진행률 바'로 표시
+![image](https://user-images.githubusercontent.com/61821190/91650965-6908e600-eac1-11ea-9279-3aa93f5ffa1d.png)
+
+
+### To-do List 리스트 및 항목 추가/변경/수정/삭제
+>• 스타일 : 리스트 별로 색상을 수정 할 수 있음
+• 리스트 이름 및 스타일과 카드 이름, 상세내용, 일정, 완료유무는 프로젝트 별로 수정, 변경, 삭제, 조회 가능
+![image](https://user-images.githubusercontent.com/61821190/91650955-555d7f80-eac1-11ea-9380-d2e6020b5e6c.png)
+
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODgxNTAwODk4LC0yNjQ0NzM2MDEsLTEyOT
-MwNjA2NzQsMjcyOTgwMzI3XX0=
+eyJoaXN0b3J5IjpbLTgyMjIzNzQ0MSwtMjY0NDczNjAxLC0xMj
+kzMDYwNjc0LDI3Mjk4MDMyN119
 -->
