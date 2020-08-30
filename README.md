@@ -55,6 +55,10 @@ IDE : Eclipse (2019-12)
 
 
 ## DB 설계
+>[AQueryTool](https://aquerytool.com/) 에서 제공하는 기능으로 데이터베이스를 설게하였습니다.
+>
+![image](https://user-images.githubusercontent.com/61821190/91650632-eb42db80-eabc-11ea-9f26-9d135ff84270.png)
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2NjcyNjQwMF19
+eyJoaXN0b3J5IjpbMjcyOTgwMzI3XX0=
 -->
