@@ -52,6 +52,9 @@ IDE : Eclipse (2019-12)
 
 ### 백업
 >• 50mb 이하의 파일을 업로드 가능하며, 파일 디렉토리를 생성 할 수 있음, 압축파일을 업로드시 압축해제가 되며 텍스트 파일 형식은 미리 보기가 가능
+
+
+## DB 설계
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0Nzc1MjgzMjhdfQ==
+eyJoaXN0b3J5IjpbMTU2NjcyNjQwMF19
 -->
