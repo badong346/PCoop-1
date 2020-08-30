@@ -8,32 +8,12 @@
   > 
 ### 개발 환경
 
-  > 서버
-
-apache-tomcat-8.5.55
-
-Java EE IDE
-
-Eclipse (2019-12)
-
-Database
-
-Oracle SQL Developer
-
-사용언어
-
-Java, HTML, CSS, JavaScript, JSP, SQL
-
-라이브러리
-
-jQuery(3.5.1)
-
-BootStrap(4.5.0)
-
-프레임워크
-
-Spring MVC Framework
-
+  > 서버 : apache-tomcat-8.5.55
+사용언어 : Java, HTML, CSS, JavaScript, JSP, SQL
+Database : Oracle SQL Developer
+IDE : Eclipse (2019-12)
+라이브러리 :  jQuery(3.5.1), BootStrap(4.5.0)
+프레임워크 :  Spring MVC Framework
 버전관리
 
 Git
@@ -43,5 +23,5 @@ Git
   > (ex. $(".backup".append("<div></div>");)<br>
   > 제가 먼저 해 봤는데 동작 잘돼요. 만약에 안 되거나 모르겠으면 저한테 질문 주세요.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MDY0Njg0MTJdfQ==
+eyJoaXN0b3J5IjpbMTk5NjE0NjA2MF19
 -->
