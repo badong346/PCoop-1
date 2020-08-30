@@ -116,6 +116,7 @@ IDE : Eclipse (2019-12)
 ### To-do List 리스트 및 항목 정렬
 >• 정렬 : ‘드래그 앤 드롭’ 방식으로 드롭하는 순간 모든 변경된 위치가 DB에 저장
 • ‘할일리스트’ 간위치 변경, ‘할일카드’ 간위치 변경, 리스트가 다른 카드 간 이동 가능
+
 ![image](https://user-images.githubusercontent.com/61821190/91650974-a40b1980-eac1-11ea-9aee-d509e1e4e1ef.png)
 
 
@@ -126,6 +127,6 @@ IDE : Eclipse (2019-12)
 >  보이지 않게 고민한 사항들이 많고 이를 극복하기 위한 시도도 많이 있었는데 이런 점을 다른 팀들이 알아봐 준 덕분에 **최우수 프로젝트**로 선정된 것 같아 기쁩니다. 새로운 상황을 겪고 공부하며 많이 성장 할 수 있었던 소중한 시간이었습니다. 특히 팀원에게 맡은 부분의 기능을 알려주기도 하고 또 다른 팀원의 담당 기능들을 배우기도 하며 열정적인 동료들과 작업하는 기회를 얻는 것이 자신의 성장에도 많은 도움이 된다는 것을 알게 되었습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjA0MTA5OTIsLTI2NDQ3MzYwMSwtMT
-I5MzA2MDY3NCwyNzI5ODAzMjddfQ==
+eyJoaXN0b3J5IjpbNjk4NzE4MTc4LC0yNjQ0NzM2MDEsLTEyOT
+MwNjA2NzQsMjcyOTgwMzI3XX0=
 -->
