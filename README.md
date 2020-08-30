@@ -103,12 +103,14 @@ IDE : Eclipse (2019-12)
 • + 버튼 : 리스트를 추가 가능하며 내부에 항목들을 넣을 수 있음
 • 하단의 주간 일정표는 숨기거나 일일 일정으로 변경 가능
 • ‘할 일 항목’ 완료시 하단의 '진행률 바'로 표시
+
 ![image](https://user-images.githubusercontent.com/61821190/91650965-6908e600-eac1-11ea-9279-3aa93f5ffa1d.png)
 
 
 ### To-do List 리스트 및 항목 추가/변경/수정/삭제
 >• 스타일 : 리스트 별로 색상을 수정 할 수 있음
 • 리스트 이름 및 스타일과 카드 이름, 상세내용, 일정, 완료유무는 프로젝트 별로 수정, 변경, 삭제, 조회 가능
+
 ![image](https://user-images.githubusercontent.com/61821190/91650955-555d7f80-eac1-11ea-9380-d2e6020b5e6c.png)
 
 ### To-do List 리스트 및 항목 정렬
@@ -124,6 +126,6 @@ IDE : Eclipse (2019-12)
 >  보이지 않게 고민한 사항들이 많고 이를 극복하기 위한 시도도 많이 있었는데 이런 점을 다른 팀들이 알아봐 준 덕분에 **최우수 프로젝트**로 선정된 것 같아 기쁩니다. 새로운 상황을 겪고 공부하며 많이 성장 할 수 있었던 소중한 시간이었습니다. 특히 팀원에게 맡은 부분의 기능을 알려주기도 하고 또 다른 팀원의 담당 기능들을 배우기도 하며 열정적인 동료들과 작업하는 기회를 얻는 것이 자신의 성장에도 많은 도움이 된다는 것을 알게 되었습니다.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3MzU5MjY2MCwtMjY0NDczNjAxLC0xMj
-kzMDYwNjc0LDI3Mjk4MDMyN119
+eyJoaXN0b3J5IjpbLTE1MjA0MTA5OTIsLTI2NDQ3MzYwMSwtMT
+I5MzA2MDY3NCwyNzI5ODAzMjddfQ==
 -->
